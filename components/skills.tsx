@@ -9,7 +9,7 @@ const skillCategories = [
   },
   {
     category: 'Backend Development',
-    skills: ['Laravel','Express.js','Flask','MySQL', 'Node.js', 'Python', 'PostgreSQL', 'MongoDB', 'Firebase'],
+    skills: ['Laravel','Express.js','Flask','MySQL', 'Node.js', 'Python', 'MongoDB', 'Firebase'],
   },
   {
     category: 'Tools & Platforms',
