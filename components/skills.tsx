@@ -5,11 +5,11 @@ import { Card } from '@/components/ui/card'
 const skillCategories = [
   {
     category: 'Frontend Development',
-    skills: ['Bootstrap', 'React', 'Sass', 'JavaScript', 'Next.js', 'TypeScript', 'Tailwind CSS', 'HTML/CSS','jQuery'],
+    skills: ['HTML/CSS','Sass','JavaScript', 'jQuery','Bootstrap', 'Tailwind CSS', 'TypeScript', 'React',   'Next.js'],
   },
   {
     category: 'Backend Development',
-    skills: ['PHP','Laravel','Express.js','Flask','MySQL', 'Node.js', 'MongoDB', 'Firebase'],
+    skills: ['PHP','MySQL','Laravel','Node.js','Express.js','Flask', 'MongoDB', 'Firebase'],
   },
   {
     category: 'Tools & Platforms',
@@ -19,6 +19,10 @@ const skillCategories = [
      'SSH',
      'Bash',
   'Axios',
+     'phpMyAdmin',
+     'cPanel',
+     'MVC';
+'POO',
   'AJAX',
   'Restful API',
   'Postman',
@@ -48,7 +52,7 @@ const skillCategories = [
   ,
   {
     category: 'Other',
-    skills: ['Algorithms & Data Stuctures', 'Networks', 'Cyber Security', 'Mathematics', 'Physics','Soft Skills'],
+    skills: ['Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics','Soft Skills'],
   },
   {
     category: 'Languages',
