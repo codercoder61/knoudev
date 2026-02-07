@@ -14,6 +14,10 @@ const skillCategories = [
   {
     category: 'Tools & Platforms',
    skills: [
+     'VirtualBox',
+     'Vmware',
+     'SSH',
+     'Bash',
   'Axios',
   'AJAX',
   'Restful API',
