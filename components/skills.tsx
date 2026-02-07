@@ -52,7 +52,7 @@ const skillCategories = [
   ,
   {
     category: 'Other',
-    skills: ['Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics','Soft Skills'],
+    skills: ['Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics/Chemistry','Soft Skills'],
   },
   {
     category: 'Languages',
