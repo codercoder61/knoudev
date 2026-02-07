@@ -21,7 +21,7 @@ const skillCategories = [
   'Axios',
      'phpMyAdmin',
      'cPanel',
-     'MVC';
+     'MVC',
 'POO',
   'AJAX',
   'Restful API',
