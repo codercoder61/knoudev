@@ -13,6 +13,12 @@ const projects = [
   },
   {
     id: 2,
+    title: 'netClassroom',
+    tags: ['HTML', 'CSS', 'JavaScript','jQuery','PHP','MySql'],
+    link: 'https://pneuexpress.xyz/ruwad/',
+  },
+  {
+    id: 2,
     title: 'IPTV Templates Shop',
     tags: ['HTML', 'CSS', 'JavaScript','Vercel','Github','jQuery','VS Code','Font Awesome'],
     link: 'https://iptv-template-shop-nine.vercel.app/',
