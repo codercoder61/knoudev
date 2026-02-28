@@ -5,7 +5,7 @@ import { Card } from '@/components/ui/card'
 const skillCategories = [
   {
     category: 'Frontend Development',
-    skills: ['HTML/CSS','Sass','JavaScript', 'jQuery','Bootstrap', 'Tailwind CSS', 'TypeScript', 'React',   'Next.js'],
+    skills: ['HTML','CSS','Sass','JavaScript', 'jQuery','Bootstrap', 'Tailwind CSS', 'TypeScript', 'React.js',   'Next.js'],
   },
   {
     category: 'Backend Development',
@@ -53,7 +53,7 @@ const skillCategories = [
   ,
   {
     category: 'Other',
-    skills: ['Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics/Chemistry','Soft Skills'],
+    skills: ['Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics','Chemistry','Soft Skills'],
   },
   {
     category: 'Languages',
