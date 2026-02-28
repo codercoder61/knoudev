@@ -6,18 +6,6 @@ import { ExternalLink, Github } from 'lucide-react'
 
 const projects = [
   {
-    id: 1,
-    title: 'Blackjack Game',
-    tags: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://pneuexpress.xyz/blackjack/',
-  },
-  {
-    id: 2,
-    title: 'netClassroom',
-    tags: ['HTML', 'CSS', 'JavaScript','jQuery','PHP','MySql'],
-    link: 'https://pneuexpress.xyz/ruwad/',
-  },
-  {
     id: 2,
     title: 'IPTV Templates Shop',
     tags: ['HTML', 'CSS', 'JavaScript','Vercel','Github','jQuery','VS Code','Font Awesome'],
@@ -28,12 +16,6 @@ const projects = [
     title: 'Seriemania',
     tags: ['HTML', 'CSS', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
     link: 'https://seriemania.vercel.app/',
-  },
-  {
-    id: 4,
-    title: 'Pneu Express',
-    tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome'],
-    link: 'https://pneuexpress.xyz/',
   },
   {
     id: 5,
