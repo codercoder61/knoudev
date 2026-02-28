@@ -57,6 +57,46 @@ const projects = [
     tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome'],
     link: 'https://movies4u-lovat.vercel.app/',
   },
+  {
+    id: 8,
+    title: 'Hianime api',
+    description:
+      'Intelligent chatbot with natural language processing and machine learning capabilities.',
+    tags: ['JavaScript','Axios','Cheerio','Cors','Express.JS'],
+    link: 'https://github.com/codercoder61/hianime_api/tree/main',
+  },
+  {
+    id: 9,
+    title: 'foody',
+    description:
+      'Intelligent chatbot with natural language processing and machine learning capabilities.',
+    tags: ['React.JS','PHP','MYSQL'],
+    link: 'https://foody-beta-rose.vercel.app/',
+  },
+  {
+    id: 10,
+    title: 'AnimeFlix',
+    description:
+      'Intelligent chatbot with natural language processing and machine learning capabilities.',
+    tags: ['Next.JS'],
+    link: 'https://animeflix-mu-opal.vercel.app/',
+  },
+  {
+    id: 11,
+    title: 'tanglee',
+    description:
+      'Intelligent chatbot with natural language processing and machine learning capabilities.',
+    tags: ['React.JS','PHP','MYSQL'],
+    link: 'https://tangleee.vercel.app/',
+  },
+  {
+    id: 12,
+    title: 'goodVibes',
+    description:
+      'Intelligent chatbot with natural language processing and machine learning capabilities.',
+    tags: ['React.JS','JSON','PHP'],
+    link: 'https://goodvibes-wine.vercel.app/',
+  },
 ]
 
 export function Projects() {
