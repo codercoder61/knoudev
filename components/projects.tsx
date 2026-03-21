@@ -79,6 +79,22 @@ const projects = [
     tags: ['React.JS','JSON','PHP'],
     link: 'https://goodvibes-wine.vercel.app/',
   },
+  {
+    id: 13,
+    title: 'IP address locator',
+    description:
+      'IP address locator',
+    tags: ['HTML','CSS','JavaScript','API'],
+    link: 'https://thisip.rf.gd/',
+  },
+  {
+    id: 14,
+    title: 'Safety Brigade Gestion de Stock',
+    description:
+      'IP address locator',
+    tags: ['HTML','CSS','JavaScript','jQuery','PHP','MySQL'],
+    link: 'https://safetybrigade.free.nf/menu.php',
+  },
 ]
 
 export function Projects() {
