@@ -1,6 +1,6 @@
 'use client'
 
-import { Github, Facebook, MessageCircle } from 'lucide-react'
+import { Github, Facebook, MessageCircle, Youtube } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export function Hero() {
@@ -66,7 +66,7 @@ export function Hero() {
               size="lg"
               className="gap-2"
             >
-              <Facebook className="w-5 h-5" />
+              <Youtube className="w-5 h-5" />
               YouTube
             </Button>
           </div>
