@@ -1,6 +1,6 @@
 'use client'
 
-import { Github, Facebook, MessageCircle, Mail } from 'lucide-react'
+import { Github, Facebook, MessageCircle, Mail, Youtube } from 'lucide-react'
 
 export function Footer() {
 
@@ -40,6 +40,12 @@ export function Footer() {
       icon: Mail,
       label: 'Email',
       url: 'https://mail.google.com/mail/?view=cm&fs=1&to=mohamedknoud@gmail.com',
+    }
+    ,
+    {
+      icon: Youtube,
+      label: 'Youtube',
+      url: 'https://www.youtube.com/@KnoudSimo',
     }
   ]
 
