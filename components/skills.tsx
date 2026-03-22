@@ -43,6 +43,7 @@ const skillCategories = [
   'AWS',
   'GitHub',
   'VS Code',
+  'JWT'
 ],
 
   },
