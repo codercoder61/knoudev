@@ -14,13 +14,13 @@ const projects = [
   {
     id: 3,
     title: 'Seriemania',
-    tags: ['HTML', 'CSS', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
+    tags: ['HTML', 'CSS','React.Js', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
     link: 'https://seriemania.vercel.app/',
   },
   {
     id: 5,
     title: 'ShareMyDocs',
-    tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome'],
+    tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome','PHP','MySQL'],
     link: 'https://sharemydocs.lovestoblog.com/',
   },
   {
@@ -44,7 +44,7 @@ const projects = [
     title: 'Hianime api',
     description:
       'Intelligent chatbot with natural language processing and machine learning capabilities.',
-    tags: ['JavaScript','Axios','Cheerio','Cors','Express.JS'],
+    tags: ['JavaScript','Axios','Cheerio','Cors','Express.JS','Node.Js'],
     link: 'https://github.com/codercoder61/hianime_api/tree/main',
   },
   {
