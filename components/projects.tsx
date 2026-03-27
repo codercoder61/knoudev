@@ -95,14 +95,7 @@ const projects = [
     tags: ['HTML','CSS','JavaScript','jQuery','PHP','MySQL'],
     link: 'https://safetybrigade.free.nf/menu.php',
   },
-  {
-    id: 15,
-    title: 'Bookfinder',
-    description:
-      'Book finder',
-    tags: ['Next.Js','Google Books API'],
-    link: 'https://bookfinder-chi.vercel.app/',
-  },
+  
 ]
 
 export function Projects() {
