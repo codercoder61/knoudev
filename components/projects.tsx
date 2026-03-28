@@ -15,7 +15,7 @@ const projects = [
     id: 3,
     title: 'Seriemania',
     tags: ['HTML', 'CSS','React.Js', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
-    link: 'https://seriemania.vercel.app/',
+    link: 'https://seriesmania.vercel.app/',
   },
   {
     id: 5,
