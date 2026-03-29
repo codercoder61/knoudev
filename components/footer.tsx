@@ -34,7 +34,7 @@ export function Footer() {
     {
       icon: Facebook,
       label: 'Facebook',
-      url: 'https://web.facebook.com/simo.knoud',
+      url: 'https://web.facebook.com/garou.warwick/',
     },
     {
       icon: Mail,
