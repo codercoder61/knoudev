@@ -95,6 +95,14 @@ const projects = [
     tags: ['HTML','CSS','JavaScript','jQuery','PHP','MySQL'],
     link: 'https://safetybrigade.free.nf/menu.php',
   },
+  {
+    id: 15,
+    title: 'Pneu Express',
+    description:
+      'Site de vente de pneus',
+    tags: ['HTML','CSS','JavaScript','jQuery','PHP','MySQL'],
+    link: 'https://pneuexpress.online/',
+  },
   
 ]
 
