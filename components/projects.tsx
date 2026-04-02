@@ -111,7 +111,12 @@ const projects = [
     tags: ['Next.JS'],
     link: 'https://streamvibe-ten.vercel.app/',
   },
-  
+  {
+    id: 17,
+    title: 'netClassroom',
+    tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome','PHP','MySQL'],
+    link: 'https://pneuexpress.online/ruwad/',
+  },
 ]
 
 export function Projects() {
