@@ -103,6 +103,14 @@ const projects = [
     tags: ['HTML','CSS','JavaScript','jQuery','PHP','MySQL'],
     link: 'https://pneuexpress.online/',
   },
+  {
+    id: 16,
+    title: 'StreamVibe',
+    description:
+      'StreamVibe',
+    tags: ['Next.JS'],
+    link: 'https://streamvibe-ten.vercel.app/',
+  },
   
 ]
 
