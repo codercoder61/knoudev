@@ -5,12 +5,7 @@ import { Button } from '@/components/ui/button'
 import { ExternalLink, Github } from 'lucide-react'
 
 const projects = [
-  {
-    id: 2,
-    title: 'IPTV Templates Shop',
-    tags: ['HTML', 'CSS', 'JavaScript','Vercel','Github','jQuery','VS Code','Font Awesome'],
-    link: 'https://iptv-template-shop-nine.vercel.app/',
-  },
+  
   {
     id: 3,
     title: 'Seriemania',
@@ -24,36 +19,12 @@ const projects = [
     link: 'https://sharemydocs.lovestoblog.com/',
   },
   {
-    id: 6,
-    title: 'Audiobooks4u',
-    description:
-      'Intelligent chatbot with natural language processing and machine learning capabilities.',
-    tags: ['Node.Js','EJS','HTML5','CSS3','JavaScript'],
-    link: 'https://audiobooks4u-seven.vercel.app/',
-  },
-  {
-    id: 7,
-    title: 'Movies4u',
-    description:
-      'Intelligent chatbot with natural language processing and machine learning capabilities.',
-    tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome'],
-    link: 'https://movies4u-lovat.vercel.app/',
-  },
-  {
     id: 8,
     title: 'Hianime api',
     description:
       'Intelligent chatbot with natural language processing and machine learning capabilities.',
     tags: ['JavaScript','Axios','Cheerio','Cors','Express.JS','Node.Js'],
     link: 'https://github.com/codercoder61/hianime_api/tree/main',
-  },
-  {
-    id: 9,
-    title: 'foody',
-    description:
-      'Intelligent chatbot with natural language processing and machine learning capabilities.',
-    tags: ['React.JS','PHP','MYSQL'],
-    link: 'https://foody-beta-rose.vercel.app/',
   },
   {
     id: 10,
