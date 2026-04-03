@@ -123,6 +123,12 @@ const projects = [
     tags: ['React.Js','VS Code','Font Awesome','PHP','MySQL'],
     link: 'https://pictogram-woad.vercel.app/',
   },
+  {
+    id: 19,
+    title: 'foody',
+    tags: ['React.Js','VS Code','Font Awesome','PHP','MySQL'],
+    link: 'https://fooddy-phi.vercel.app/',
+  },
 ]
 
 export function Projects() {
