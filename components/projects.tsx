@@ -117,6 +117,12 @@ const projects = [
     tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome','PHP','MySQL'],
     link: 'https://pneuexpress.online/ruwad/',
   },
+  {
+    id: 18,
+    title: 'pictogram (Social Network)',
+    tags: ['React.Js','VS Code','Font Awesome','PHP','MySQL'],
+    link: 'https://pictogram-woad.vercel.app/',
+  },
 ]
 
 export function Projects() {
