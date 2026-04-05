@@ -52,7 +52,7 @@ export function Hero() {
               WhatsApp
             </Button>
             <Button
-              onClick={() => window.open('https://web.facebook.com/simo.knoud', '_blank')}
+              onClick={() => window.open('https://web.facebook.com/garou.warwick/', '_blank')}
               variant="outline"
               size="lg"
               className="gap-2"
