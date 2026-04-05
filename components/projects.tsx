@@ -103,7 +103,7 @@ const projects = [
   {
     id: 20,
     title: 'Arab Atheists Library',
-    tags: ['Next.js','PHP4],
+    tags: ['Next.js','PHP'],
     link: 'https://bookfinder-chi.vercel.app/',
   },
 ]
