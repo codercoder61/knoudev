@@ -106,6 +106,12 @@ const projects = [
     tags: ['Next.js','PHP'],
     link: 'https://bookfinder-chi.vercel.app/',
   },
+  {
+    id: 21,
+    title: 'Movies4u',
+    tags: ['HTML5','CSS3','JavaScript'],
+    link: 'https://movies4u.free.nf/',
+  },
 ]
 
 export function Projects() {
