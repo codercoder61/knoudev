@@ -100,6 +100,12 @@ const projects = [
     tags: ['React.Js','VS Code','Font Awesome','PHP','MySQL'],
     link: 'https://fooddy-phi.vercel.app/',
   },
+  {
+    id: 39,
+    title: 'Book-Store',
+    tags: ['Laravel'],
+    link: 'https://bookstore-production-9e74.up.railway.app/',
+  },
 ]
 
 export function Projects() {
