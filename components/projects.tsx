@@ -106,6 +106,12 @@ const projects = [
     tags: ['Laravel'],
     link: 'https://bookstore-production-9e74.up.railway.app/',
   },
+  {
+    id: 49,
+    title: 'Les Pionniers du Savoir - رواد المعرفة',
+    tags: ['Next.JS','Supabase'],
+    link: 'https://ruwad-knowledge.vercel.app/',
+  },
 ]
 
 export function Projects() {
