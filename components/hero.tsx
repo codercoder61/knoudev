@@ -61,7 +61,7 @@ export function Hero() {
               Facebook
             </Button>
             <Button
-              onClick={() => window.open('https://www.youtube.com/@KnoudSimo', '_blank')}
+              onClick={() => window.open('https://www.youtube.com/@Warxwi', '_blank')}
               variant="outline"
               size="lg"
               className="gap-2"
