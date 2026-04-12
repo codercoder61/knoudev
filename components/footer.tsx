@@ -45,7 +45,7 @@ export function Footer() {
     {
       icon: Youtube,
       label: 'Youtube',
-      url: 'https://www.youtube.com/@KnoudSimo',
+      url: 'https://www.youtube.com/@Warxwi',
     }
   ]
 
