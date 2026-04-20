@@ -5,7 +5,7 @@ import { Card } from '@/components/ui/card'
 const skillCategories = [
   {
     category: 'Frontend Development',
-    skills: ['HTML 5','CSS 3','Sass','JavaScript (ES6+)', 'jQuery','Bootstrap 5', 'Tailwind CSS', 'TypeScript', 'React.js',   'Next.js'],
+    skills: ['HTML5','CSS3','Sass','JavaScript (ES6+)', 'jQuery','Bootstrap 5', 'Tailwind CSS', 'TypeScript', 'React.js',   'Next.js'],
   },
   {
     category: 'Backend Development',
