@@ -28,11 +28,11 @@ const projects = [
   },
   {
     id: 10,
-    title: 'AnimeFlix',
+    title: 'AnimeHub',
     description:
       'Intelligent chatbot with natural language processing and machine learning capabilities.',
-    tags: ['Next.JS'],
-    link: 'https://animeflix-mu-opal.vercel.app/',
+    tags: ['Next.JS','MySQL','Express.Js'],
+    link: 'https://animehub-indol.vercel.app/',
   },
   {
     id: 11,
@@ -112,6 +112,7 @@ const projects = [
     tags: ['Next.JS','Supabase'],
     link: 'https://ruwad-knowledge.vercel.app/',
   },
+  
 ]
 
 export function Projects() {
