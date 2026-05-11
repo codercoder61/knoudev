@@ -49,7 +49,7 @@ const skillCategories = [
   },
   {
     category: 'Programming Languages',
-    skills: ['Python', 'C++', 'C', 'Visual Basic .NET', 'Assembly'],
+    skills: ['Python', 'C++', 'C', 'Visual Basic .NET', 'Assembly',"C# (C Sharp)"],
   },
   ,
   {
