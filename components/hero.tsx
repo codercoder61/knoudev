@@ -22,7 +22,7 @@ export function Hero() {
               className="gap-2"
             >
               <Github className="w-5 h-5" />
-              GitHub 1
+              GitHub
             </Button>
             <Button
               onClick={() => window.open('https://wa.me/+2120698522728', '_blank')}
