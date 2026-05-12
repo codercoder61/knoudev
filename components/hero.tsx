@@ -25,24 +25,6 @@ export function Hero() {
               GitHub 1
             </Button>
             <Button
-              onClick={() => window.open('https://github.com/mohamed-knoud', '_blank')}
-              variant="outline"
-              size="lg"
-              className="gap-2"
-            >
-              <Github className="w-5 h-5" />
-              GitHub 2
-            </Button>
-            <Button
-              onClick={() => window.open('https://github.com/coderceder61', '_blank')}
-              variant="outline"
-              size="lg"
-              className="gap-2"
-            >
-              <Github className="w-5 h-5" />
-              GitHub 3
-            </Button>
-            <Button
               onClick={() => window.open('https://wa.me/+2120698522728', '_blank')}
               variant="outline"
               size="lg"
