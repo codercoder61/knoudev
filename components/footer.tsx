@@ -13,18 +13,8 @@ export function Footer() {
   const socialLinks = [
     {
       icon: Github,
-      label: 'GitHub 1',
+      label: 'GitHub',
       url: 'https://github.com/codercoder61',
-    },
-    {
-      icon: Github,
-      label: 'GitHub 2',
-      url: 'https://github.com/mohamed-knoud',
-    },
-    {
-      icon: Github,
-      label: 'GitHub 3',
-      url: 'https://github.com/coderceder61',
     },
     {
       icon: MessageCircle,
