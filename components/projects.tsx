@@ -112,6 +112,12 @@ const projects = [
     tags: ['Next.JS','Supabase'],
     link: 'https://ruwad-knowledge.vercel.app/',
   },
+  {
+    id: 60,
+    title: 'ArabAtheistHub',
+    tags: ['Next.JS'],
+    link: 'https://arabatheisthub.vercel.app/',
+  },
   
 ]
 
