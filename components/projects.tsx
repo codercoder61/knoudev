@@ -36,11 +36,11 @@ const projects = [
   },
   {
     id: 11,
-    title: 'tanglee',
+    title: 'Dating App',
     description:
       'Intelligent chatbot with natural language processing and machine learning capabilities.',
-    tags: ['React.JS','PHP','MYSQL'],
-    link: 'https://tangleee.vercel.app/',
+    tags: ['Next.JS','Supabase'],
+    link: 'https://v0-dating-app-features-roan.vercel.app/auth/login',
   },
   {
     id: 12,
