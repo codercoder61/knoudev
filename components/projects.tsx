@@ -5,13 +5,7 @@ import { Button } from '@/components/ui/button'
 import { ExternalLink, Github } from 'lucide-react'
 
 const projects = [
-  
-  {
-    id: 3,
-    title: 'Seriemania',
-    tags: ['HTML', 'CSS','React.Js', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
-    link: 'https://seriesmania.vercel.app/',
-  },
+
   {
     id: 5,
     title: 'ShareMyDocs',
@@ -44,7 +38,7 @@ const projects = [
   },
   {
     id: 12,
-    title: 'goodVibes',
+    title: 'Good Vibes',
     description:
       'Intelligent chatbot with natural language processing and machine learning capabilities.',
     tags: ['React.JS','JSON','PHP'],
@@ -57,14 +51,6 @@ const projects = [
       'IP address locator',
     tags: ['HTML','CSS','JavaScript','API'],
     link: 'https://thisip.rf.gd/',
-  },
-  {
-    id: 14,
-    title: 'Safety Brigade Gestion de Stock',
-    description:
-      'IP address locator',
-    tags: ['HTML','CSS','JavaScript','jQuery','PHP','MySQL'],
-    link: 'https://safetybrigade.free.nf/menu.php',
   },
   {
     id: 15,
@@ -101,24 +87,18 @@ const projects = [
     link: 'https://fooddy-phi.vercel.app/',
   },
   {
-    id: 39,
-    title: 'Book-Store',
-    tags: ['Laravel'],
-    link: 'https://bookstore-production-9e74.up.railway.app/',
-  },
-  {
     id: 49,
     title: 'Les Pionniers du Savoir - رواد المعرفة',
     tags: ['Next.JS','Supabase'],
     link: 'https://ruwad-knowledge.vercel.app/',
   },
+    
   {
-    id: 60,
-    title: 'ArabAtheistHub',
-    tags: ['Next.JS'],
-    link: 'https://arabatheisthub.vercel.app/',
+    id: 3,
+    title: 'Seriemania',
+    tags: ['HTML', 'CSS','React.Js', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
+    link: 'https://seriesmania.vercel.app/',
   },
-  
 ]
 
 export function Projects() {
