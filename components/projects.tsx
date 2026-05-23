@@ -32,7 +32,7 @@ const projects = [
     description:
       'Intelligent chatbot with natural language processing and machine learning capabilities.',
     tags: ['Next.JS','MySQL','Express.Js'],
-    link: 'https://animehub-indol.vercel.app/',
+    link: 'https://aniimehub.vercel.app/',
   },
   {
     id: 11,
