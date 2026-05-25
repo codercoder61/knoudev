@@ -22,20 +22,9 @@ export function Footer() {
       url: 'https://wa.me/2120698522728',
     },
     {
-      icon: Facebook,
-      label: 'Facebook',
-      url: 'https://web.facebook.com/garou.warwick/',
-    },
-    {
       icon: Mail,
       label: 'Email',
       url: 'https://mail.google.com/mail/?view=cm&fs=1&to=mohamedknoud@gmail.com',
-    }
-    ,
-    {
-      icon: Youtube,
-      label: 'Youtube',
-      url: 'https://www.youtube.com/@Warxwi',
     }
   ]
 
