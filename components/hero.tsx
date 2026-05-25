@@ -33,24 +33,6 @@ export function Hero() {
               <MessageCircle className="w-5 h-5" />
               WhatsApp
             </Button>
-            <Button
-              onClick={() => window.open('https://web.facebook.com/garou.warwick/', '_blank')}
-              variant="outline"
-              size="lg"
-              className="gap-2"
-            >
-              <Facebook className="w-5 h-5" />
-              Facebook
-            </Button>
-            <Button
-              onClick={() => window.open('https://www.youtube.com/@Warxwi', '_blank')}
-              variant="outline"
-              size="lg"
-              className="gap-2"
-            >
-              <Youtube className="w-5 h-5" />
-              YouTube
-            </Button>
           </div>
         </div>
       </div>
