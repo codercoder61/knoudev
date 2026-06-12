@@ -99,6 +99,12 @@ const projects = [
     tags: ['HTML', 'CSS','React.Js', 'JavaScript','Vercel','Github','VS Code','Font Awesome'],
     link: 'https://seriesmania.vercel.app/',
   },
+  {
+    id: 669,
+    title: 'BlackJack',
+    tags: ['HTML', 'CSS','JavaScript'],
+    link: 'https://pneuexpress.online/blackjack/',
+  },
 ]
 
 export function Projects() {
