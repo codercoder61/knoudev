@@ -45,6 +45,14 @@ const projects = [
     link: 'https://goodvibes-wine.vercel.app/',
   },
   {
+    id: 8552,
+    title: 'Arab Ateist Library',
+    description:
+      'Intelligent chatbot with natural language processing and machine learning capabilities.',
+    tags: ['Next.JS'],
+    link: 'https://arabatheisthub.vercel.app/',
+  },
+  {
     id: 13,
     title: 'IP address locator',
     description:
