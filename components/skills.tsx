@@ -54,7 +54,7 @@ const skillCategories = [
   ,
   {
     category: 'Other',
-    skills: ['Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics','Chemistry','Soft Skills'],
+    skills: ['Unity (Game Development)', 'Algorithms & Data Stuctures', 'Electronics','Networks', 'Cyber Security', 'Mathematics', 'Physics','Chemistry','Soft Skills'],
   },
   {
     category: 'Languages',
