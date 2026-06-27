@@ -9,7 +9,7 @@ export function Hero() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h1 className="text-5xl sm:text-6xl font-bold text-foreground mb-4 text-balance">
-            Creative Developer
+            Web Developer
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-8 text-balance">
             Building beautiful, functional web experiences with modern technologies
