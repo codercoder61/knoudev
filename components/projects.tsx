@@ -13,6 +13,12 @@ const projects = [
     link: 'https://sharemydocs.lovestoblog.com/',
   },
   {
+    id: 5525,
+    title: 'Inventory MS',
+    tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome','PHP','MySQL'],
+    link: 'https://pneuexpress.online/myProject/',
+  },
+  {
     id: 8,
     title: 'Hianime api',
     description:
