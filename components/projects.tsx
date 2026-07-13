@@ -13,6 +13,12 @@ const projects = [
     link: 'https://sharemydocs.lovestoblog.com/',
   },
   {
+    id: 536123,
+    title: 'MoviexFlix',
+    tags: ['Next.Js','TMDP API'],
+    link: 'https://movies-website-puce-theta.vercel.app/',
+  },
+  {
     id: 5525,
     title: 'Inventory MS',
     tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome','PHP','MySQL'],
