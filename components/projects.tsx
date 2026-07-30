@@ -125,6 +125,12 @@ const projects = [
     tags: ['HTML', 'CSS','JavaScript'],
     link: 'https://pneuexpress.online/blackjack/',
   },
+  {
+    id: 518546,
+    title: 'DevForum',
+    tags: ['AI Generated'],
+    link: 'https://developer-forum-web-30cz.bolt.host/#/',
+  },
 ]
 
 export function Projects() {
