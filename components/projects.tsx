@@ -12,6 +12,12 @@ const projects = [
     tags: ['HTML', 'CSS', 'JavaScript','jQuery','VS Code','Font Awesome','PHP','MySQL'],
     link: 'https://sharemydocs.lovestoblog.com/',
   },
+   {
+    id: 5779843,
+    title: 'tanglee',
+    tags: ['React.Js', 'PHP', 'MySQL', 'Vercel', 'Github', 'Namecheap', 'VS Code'],
+    link: 'https://tangleee.vercel.app/',
+  },
   {
     id: 536123,
     title: 'MoviexFlix',
