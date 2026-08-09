@@ -135,7 +135,7 @@ const projects = [
     id: 518546,
     title: 'DevForum',
     tags: ['AI Generated'],
-    link: 'https://developer-forum-web-30cz.bolt.host/#/',
+    link: 'https://devforum.social/',
   },
 ]
 
